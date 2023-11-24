@@ -1,4 +1,4 @@
-# Hero Website
+# Hero Section
 
 This is a simple HTML and CSS template for a hero section on a website. The template includes a navigation bar, a banner section with an image and text, and a button to explore products.
 
